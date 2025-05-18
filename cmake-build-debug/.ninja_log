@@ -1,0 +1,25 @@
+# ninja log v6
+2	248	1747586093667487517	CMakeFiles/TankPorject.dir/TankManager/Entities/Tank/Tank.cpp.o	a9ac77d77c419f47
+4	227	1747587386407461383	CMakeFiles/TankPorject.dir/TankManager/Services/CreateNewTank/CreateName/CreateName.cpp.o	9831e7bf543b2e22
+4	429	1747593446734249055	CMakeFiles/TankPorject.dir/TankManager/Services/CreateNewTank/SelectCountry/SelectCountry.cpp.o	6c7be40675078a92
+2	344	1747595419091811398	CMakeFiles/TankPorject.dir/TankManager/TankManager.cpp.o	79a8018b1058380e
+4	377	1747586156194299817	CMakeFiles/TankPorject.dir/TankManager/Entities/CreateTables/CreateCreationYearTable/CreateCreationYearTable.cpp.o	5802520a4d9dc838
+3	358	1747586093668972991	CMakeFiles/TankPorject.dir/TankManager/Services/CreateNewTank/CreateCreationYear/CreateCreationYear.cpp.o	ab2993e51319e3ca
+2	329	1747594377763318346	CMakeFiles/TankPorject.dir/TankManager/Entities/CreateTables/CreateTank/CreateTankTable.cpp.o	28e3a7b00dd1452e
+18	461	1747590148970338972	CMakeFiles/TankPorject.dir/TankManager/Entities/CreateTables/CreateCountryTable/CreateCountryTable.cpp.o	933b34f93902cbb2
+4	367	1747594163429900285	CMakeFiles/TankPorject.dir/TankManager/Services/CreateNewTank/CreateNewTank.cpp.o	929f549e7e6309d
+355	385	1747595445559809291	TankPorject	a52397f5defc7b24
+1	360	1747586093666661591	CMakeFiles/TankPorject.dir/main.cpp.o	5ed35b25150994dd
+2	216	1747595419092016898	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintTanksManager.cpp.o	517e385c7e3d994b
+3	240	1747595294453028228	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromVector/PrintFromVector.cpp.o	fd8e445e7b3c5d7
+3	355	1747595445207973750	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromDatabase/PrintFromDatabase.cpp.o	4e93b93abab11644
+4	416	1747597104021476031	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromDatabase/PrintFromCountry/PrintFromCountry.cpp.o	64e34aa69ce6ddc2
+417	449	1747597104433746829	TankPorject	fee100fc2f0fcd94
+4	429	1747597290021451863	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromDatabase/PrintFromDatabase.cpp.o	4e93b93abab11644
+429	459	1747597290446262896	TankPorject	fee100fc2f0fcd94
+5	425	1747597766770877246	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromDatabase/PrintFromCountry/PrintFromCountry.cpp.o	64e34aa69ce6ddc2
+425	454	1747597767191432591	TankPorject	fee100fc2f0fcd94
+3	412	1747597895976529030	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromDatabase/PrintFromCountry/PrintFromCountry.cpp.o	64e34aa69ce6ddc2
+413	443	1747597896385747391	TankPorject	fee100fc2f0fcd94
+4	398	1747598017572486615	CMakeFiles/TankPorject.dir/TankManager/Services/PrintTanksManager/PrintFromDatabase/PrintFromCountry/PrintFromCountry.cpp.o	64e34aa69ce6ddc2
+398	427	1747598017966405555	TankPorject	fee100fc2f0fcd94
